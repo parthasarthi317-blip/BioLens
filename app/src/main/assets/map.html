@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>BioLens Observation Map</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <style>
+        body { margin: 0; padding: 0; background: #121212; overflow: hidden; height: 100%; width: 100%; position: fixed; }
+        #map { height: 100%; width: 100%; background: #121212; position: absolute; top: 0; left: 0; }
+        .leaflet-popup-content-wrapper {
+            background: #1e1e1e;
+            color: white;
+            border-radius: 8px;
+            font-family: sans-serif;
+        }
+        .leaflet-popup-tip {
+            background: #1e1e1e;
+        }
+        .popup-title {
+            color: #00FF88;
+            font-weight: bold;
+            font-size: 14px;
+            margin-bottom: 4px;
+            text-transform: uppercase;
+        }
+        .popup-detail {
+            font-size: 12px;
+            margin-bottom: 2px;
+        }
+        .popup-location {
+            color: #AAAAAA;
+            font-style: italic;
+            font-size: 11px;
+            margin-top: 4px;
+        }
+        .no-obs-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background: #121212;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            font-family: sans-serif;
+        }
+        .no-obs-title {
+            color: #00FF88;
+            font-size: 18px;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <div id="no-obs" class="no-obs-container" style="display:none;">
+        <div class="no-obs-title">NO LOCATION-BASED OBSERVATIONS</div>
+        <div>Save observations with location enabled<br>to see them on the map.</div>
+    </div>
+
+    <script>
+        console.log("Map script starting...");
+
+        window.onerror = function(message, source, lineno, colno, error) {
+            console.error("Global JS Error: " + message + " at " + source + ":" + lineno);
+            return false;
+        };
+
+        function initMap(observationsJson) {
+            console.log("initMap called with: " + observationsJson);
+
+            if (typeof L === 'undefined') {
+                console.error("Leaflet (L) is not defined! Script might have failed to load.");
+                document.body.innerHTML = '<div style="color:red; padding:20px;">Error: Leaflet library failed to load. Check internet connection.</div>';
+                return;
+            }
+
+            try {
+                var map = L.map('map', {
+                    zoomControl: false,
+                    attributionControl: true
+                });
+
+                L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+                }).addTo(map);
+
+                var observations = JSON.parse(observationsJson);
+                console.log("Parsed " + observations.length + " observations");
+
+                if (!observations || observations.length === 0) {
+                    document.getElementById('map').style.display = 'none';
+                    document.getElementById('no-obs').style.display = 'flex';
+                    return;
+                }
+
+                var markers = [];
+                observations.forEach(function(obs) {
+                    if (obs.latitude !== null && obs.longitude !== null) {
+                        console.log("Adding marker for: " + obs.speciesName + " at " + obs.latitude + "," + obs.longitude);
+                        var marker = L.marker([obs.latitude, obs.longitude]).addTo(map);
+
+                        var popupHtml = '<div class="popup-title">' + obs.speciesName + '</div>' +
+                                        '<div class="popup-detail">' + (obs.confidence * 100).toFixed(0) + '% Confidence</div>' +
+                                        '<div class="popup-detail">' + obs.timestamp + '</div>' +
+                                        '<div class="popup-location">' + (obs.location || 'Unknown Location') + '</div>';
+
+                        marker.bindPopup(popupHtml);
+                        markers.push(marker);
+                    }
+                });
+
+                if (markers.length === 0) {
+                    console.log("No markers with coordinates found");
+                    document.getElementById('map').style.display = 'none';
+                    document.getElementById('no-obs').style.display = 'flex';
+                } else if (markers.length === 1) {
+                    map.setView(markers[0].getLatLng(), 13);
+                } else {
+                    var group = new L.featureGroup(markers);
+                    map.fitBounds(group.getBounds().pad(0.1));
+                }
+                console.log("Map initialization complete");
+
+                // Force size recalculation after a delay to ensure container is rendered
+                setTimeout(function() {
+                    console.log("Invalidating map size...");
+                    map.invalidateSize();
+                }, 200);
+            } catch (e) {
+                console.error("Error in initMap: " + e.message);
+            }
+        }
+    </script>
+</body>
+</html>

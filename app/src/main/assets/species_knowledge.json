@@ -1,0 +1,652 @@
+[
+  {
+    "id": "asian_green_bee_eater",
+    "commonName": "Asian Green Bee-Eater",
+    "scientificName": "Merops orientalis",
+    "habitat": "Open country with bushes, farming areas, and arid shrublands; often seen near water bodies.",
+    "diet": "Predominantly insectivorous, specializing in bees, wasps, and ants caught in mid-air flight.",
+    "distribution": "Widespread across South and Southeast Asia, from Iran to Vietnam.",
+    "ecologicalRole": "Insect predator that helps maintain the balance of flying insect populations.",
+    "conservationStatus": "Least Concern (IUCN). SoIB 2023: Low Conservation Priority; Trend: Stable. Not protected under Wildlife (Protection) Act.",
+    "nativeStatus": "Native / Resident.",
+    "interestingFact": "Before eating a bee or wasp, it removes the stinger by repeatedly thrashing the insect against its perch.",
+    "sources": [
+      {
+        "sourceName": "eBird",
+        "sourceUrl": "https://ebird.org/species/asgbee1",
+        "accessedDate": "2026-09-13",
+        "note": "Information on habitat, diet, and behavior."
+      },
+      {
+        "sourceName": "State of India's Birds 2023",
+        "sourceUrl": "https://www.stateofindiasbirds.in/species/asgbee1/",
+        "accessedDate": "2026-09-13",
+        "note": "India-specific conservation priority and population trends."
+      }
+    ]
+  },
+  {
+    "id": "brown_headed_barbet",
+    "commonName": "Brown-Headed Barbet",
+    "scientificName": "Psilopogon zeylanicus",
+    "habitat": "Open or well-wooded areas, gardens, urban parks, and groves with fruiting trees.",
+    "diet": "Mainly frugivorous, feeding on figs and berries; also takes nectar and occasional insects.",
+    "distribution": "Found across the Indian subcontinent and Sri Lanka.",
+    "ecologicalRole": "Seed disperser, especially for Ficus species in urban and forest ecosystems.",
+    "conservationStatus": "Least Concern (IUCN). SoIB 2023: Low Conservation Priority; Trend: Stable. Not protected under Wildlife (Protection) Act.",
+    "nativeStatus": "Native / Resident.",
+    "interestingFact": "Known for its distinctive, repetitive 'kutroo-kutroo-kutroo' call that can be heard throughout the day.",
+    "sources": [
+      {
+        "sourceName": "eBird",
+        "sourceUrl": "https://ebird.org/species/brhbar1",
+        "accessedDate": "2026-09-13",
+        "note": "Identification and habitat details."
+      },
+      {
+        "sourceName": "India Biodiversity Portal",
+        "sourceUrl": "https://indiabiodiversity.org/species/show/238865",
+        "accessedDate": "2026-09-13",
+        "note": "Distribution and ecological information."
+      }
+    ]
+  },
+  {
+    "id": "cattle_egret",
+    "commonName": "Cattle Egret",
+    "scientificName": "Bubulcus ibis",
+    "habitat": "Grasslands, pastures, and agricultural fields; frequently follows grazing cattle or tractors.",
+    "diet": "Insects such as grasshoppers and flies; also feeds on frogs, lizards, and small mammals.",
+    "distribution": "Cosmopolitan; found globally across most continents.",
+    "ecologicalRole": "Forages alongside livestock, consuming insects stirred up by their movement.",
+    "conservationStatus": "Least Concern (IUCN). SoIB 2023: Low Conservation Priority; Trend: Stable. Not protected under Wildlife (Protection) Act.",
+    "nativeStatus": "Native / Resident.",
+    "interestingFact": "Unlike other egrets, it is much less dependent on water and is often found in dry terrestrial habitats.",
+    "sources": [
+      {
+        "sourceName": "eBird",
+        "sourceUrl": "https://ebird.org/species/categr",
+        "accessedDate": "2026-09-13",
+        "note": "Global range and foraging behavior."
+      },
+      {
+        "sourceName": "State of India's Birds 2023",
+        "sourceUrl": "https://www.stateofindiasbirds.in/species/categr/",
+        "accessedDate": "2026-09-13",
+        "note": "India-specific population status."
+      }
+    ]
+  },
+  {
+    "id": "common_kingfisher",
+    "commonName": "Common Kingfisher",
+    "scientificName": "Alcedo atthis",
+    "habitat": "Still or slow-flowing fresh water, including rivers, canals, lakes, and ponds with vegetated banks.",
+    "diet": "Primarily small fish; also consumes aquatic insects, crustaceans, and tadpoles.",
+    "distribution": "Widespread across Eurasia, North Africa, and parts of the Indian subcontinent.",
+    "ecologicalRole": "Freshwater predator and bioindicator of aquatic health.",
+    "conservationStatus": "Least Concern (IUCN). SoIB 2023: Low Conservation Priority; Trend: Stable. Not protected under Wildlife (Protection) Act.",
+    "nativeStatus": "Native / Resident and partial migrant.",
+    "interestingFact": "It can dive into water at high speeds, using a nictitating membrane to protect its eyes underwater.",
+    "sources": [
+      {
+        "sourceName": "eBird",
+        "sourceUrl": "https://ebird.org/species/comkin1",
+        "accessedDate": "2026-09-13",
+        "note": "Habitat and feeding details."
+      },
+      {
+        "sourceName": "State of India's Birds 2023",
+        "sourceUrl": "https://www.stateofindiasbirds.in/species/comkin1/",
+        "accessedDate": "2026-09-13",
+        "note": "India-specific status and trend."
+      }
+    ]
+  },
+  {
+    "id": "common_myna",
+    "commonName": "Common Myna",
+    "scientificName": "Acridotheres tristis",
+    "habitat": "Open woodlands, agricultural lands, and highly urbanized environments.",
+    "diet": "Omnivorous; feeds on insects, fruits, seeds, and human food scraps.",
+    "distribution": "Native to Asia; widely introduced to many other parts of the world.",
+    "ecologicalRole": "Insect controller that has adapted successfully to urban environments.",
+    "conservationStatus": "Least Concern (IUCN). SoIB 2023: Low Conservation Priority; Trend: Stable. Not protected under Wildlife (Protection) Act.",
+    "nativeStatus": "Native / Resident.",
+    "interestingFact": "Often called the 'farmer's friend' in India because it consumes large quantities of crop-destroying grasshoppers.",
+    "sources": [
+      {
+        "sourceName": "eBird",
+        "sourceUrl": "https://ebird.org/species/commyn",
+        "accessedDate": "2026-09-13",
+        "note": "Identification and adaptability notes."
+      },
+      {
+        "sourceName": "State of India's Birds 2023",
+        "sourceUrl": "https://www.stateofindiasbirds.in/species/commyn/",
+        "accessedDate": "2026-09-13",
+        "note": "India-specific population status."
+      }
+    ]
+  },
+  {
+    "id": "common_rosefinch",
+    "commonName": "Common Rosefinch",
+    "scientificName": "Carpodacus erythrinus",
+    "habitat": "Scrubland, forest edges, thickets near water, and mountain meadows.",
+    "diet": "Mainly seeds, buds, and berries; occasionally takes insects during the breeding season.",
+    "distribution": "Widespread across Northern Eurasia; winters in the Indian subcontinent and Southeast Asia.",
+    "ecologicalRole": "Seed predator and disperser.",
+    "conservationStatus": "Least Concern (IUCN). SoIB 2023: Moderate Conservation Priority; Current Trend: Rapid Decline. Protected under Schedule II of Wildlife (Protection) Act.",
+    "nativeStatus": "Winter migrant + localized summer migrant.",
+    "interestingFact": "Males take two years to acquire their bright red 'rose' plumage; younger males look similar to the brown females.",
+    "sources": [
+      {
+        "sourceName": "eBird",
+        "sourceUrl": "https://ebird.org/species/comros",
+        "accessedDate": "2026-09-13",
+        "note": "Migration and plumage details."
+      },
+      {
+        "sourceName": "State of India's Birds 2023",
+        "sourceUrl": "https://www.stateofindiasbirds.in/species/comros/",
+        "accessedDate": "2026-09-13",
+        "note": "India-specific conservation status and trends."
+      }
+    ]
+  },
+  {
+    "id": "common_tailorbird",
+    "commonName": "Common Tailorbird",
+    "scientificName": "Orthotomus sutorius",
+    "habitat": "Open forests, gardens, scrubland, and urban parks with dense shrubbery.",
+    "diet": "Primarily small insects, larvae, and spiders; also visits flowers for nectar.",
+    "distribution": "Found across tropical South Asia and Southeast Asia.",
+    "ecologicalRole": "Insectivore that helps control pest populations in gardens.",
+    "conservationStatus": "Least Concern (IUCN). SoIB 2023: Low Conservation Priority; Trend: Increasing. Protected under Schedule II of Wildlife (Protection) Act.",
+    "nativeStatus": "Native / Resident.",
+    "interestingFact": "Constructs its nest by sewing leaves together using spider silk or plant fibers, using its sharp bill as a needle.",
+    "sources": [
+      {
+        "sourceName": "eBird",
+        "sourceUrl": "https://ebird.org/species/comtai1",
+        "accessedDate": "2026-09-13",
+        "note": "Nesting and foraging behavior."
+      },
+      {
+        "sourceName": "State of India's Birds 2023",
+        "sourceUrl": "https://www.stateofindiasbirds.in/species/comtai1/",
+        "accessedDate": "2026-09-13",
+        "note": "India-specific conservation priority and population trends."
+      }
+    ]
+  },
+  {
+    "id": "coppersmith_barbet",
+    "commonName": "Coppersmith Barbet",
+    "scientificName": "Psilopogon haemacephalus",
+    "habitat": "Gardens, groves, urban areas, and sparse woodland with old trees.",
+    "diet": "Mainly frugivorous, preferring wild figs and berries; occasionally eats insects.",
+    "distribution": "Widespread across the Indian subcontinent and Southeast Asia.",
+    "ecologicalRole": "Seed disperser in both urban and rural ecosystems.",
+    "conservationStatus": "Least Concern (IUCN). SoIB 2023: Low Conservation Priority; Trend: Stable. Not protected under Wildlife (Protection) Act.",
+    "nativeStatus": "Native / Resident.",
+    "interestingFact": "Its name comes from its repetitive call that sounds like a coppersmith striking metal with a hammer.",
+    "sources": [
+      {
+        "sourceName": "eBird",
+        "sourceUrl": "https://ebird.org/species/copbar1",
+        "accessedDate": "2026-09-13",
+        "note": "Call and habitat description."
+      },
+      {
+        "sourceName": "State of India's Birds 2023",
+        "sourceUrl": "https://www.stateofindiasbirds.in/species/copbar1/",
+        "accessedDate": "2026-09-13",
+        "note": "India-specific conservation priority and population trends."
+      }
+    ]
+  },
+  {
+    "id": "forest_wagtail",
+    "commonName": "Forest Wagtail",
+    "scientificName": "Dendronanthus indicus",
+    "habitat": "Forest and plantation; shady forest floor, woodland clearings, and wooded gardens with leaf litter.",
+    "diet": "Mainly insects and other small invertebrates found by foraging on the ground.",
+    "distribution": "Breeds in Northeast Asia; winters in South India, Southeast Asia, and Indonesia.",
+    "ecologicalRole": "Ground-dwelling insectivore of forested habitats.",
+    "conservationStatus": "Least Concern (IUCN). SoIB 2023: High Conservation Priority; Trend: Rapid Decline. Protected under Schedule I of Wildlife (Protection) Act.",
+    "nativeStatus": "Winter migrant.",
+    "interestingFact": "Unlike other wagtails, it swings its tail from side to side rather than up and down.",
+    "sources": [
+      {
+        "sourceName": "eBird",
+        "sourceUrl": "https://ebird.org/species/forwag1",
+        "accessedDate": "2026-09-13",
+        "note": "Tail movement and habitat details."
+      },
+      {
+        "sourceName": "State of India's Birds 2023",
+        "sourceUrl": "https://www.stateofindiasbirds.in/species/forwag1/",
+        "accessedDate": "2026-09-13",
+        "note": "India-specific high conservation priority and rapid decline status."
+      }
+    ]
+  },
+  {
+    "id": "gray_wagtail",
+    "commonName": "Gray Wagtail",
+    "scientificName": "Motacilla cinerea",
+    "habitat": "Fast-flowing mountain streams for breeding; varied wetlands and canal edges in winter.",
+    "diet": "Aquatic and terrestrial insects, especially flies and larvae.",
+    "distribution": "Widespread across Eurasia and Africa; winters in South Asia.",
+    "ecologicalRole": "Insectivore near water bodies.",
+    "conservationStatus": "Least Concern (IUCN). SoIB 2023: Moderate Conservation Priority; Current Trend: Rapid Decline. Protected under Schedule II of Wildlife (Protection) Act.",
+    "nativeStatus": "Winter migrant + localized summer migrant.",
+    "interestingFact": "Possesses a much longer tail than other wagtails, which it wags constantly while standing.",
+    "sources": [
+      {
+        "sourceName": "eBird",
+        "sourceUrl": "https://ebird.org/species/grywag",
+        "accessedDate": "2026-09-13",
+        "note": "Habitat and identification."
+      },
+      {
+        "sourceName": "State of India's Birds 2023",
+        "sourceUrl": "https://www.stateofindiasbirds.in/species/grywag/",
+        "accessedDate": "2026-09-13",
+        "note": "India-specific conservation priority and population trends."
+      }
+    ]
+  },
+  {
+    "id": "hoopoe",
+    "commonName": "Hoopoe",
+    "scientificName": "Upupa epops",
+    "habitat": "Open landscapes with short vegetation, orchards, vineyards, and parkland.",
+    "diet": "Ground-dwelling insects and their larvae, spiders, and occasionally small reptiles.",
+    "distribution": "Found across Europe, Asia, and North Africa.",
+    "ecologicalRole": "Controller of ground-dwelling insect pests.",
+    "conservationStatus": "Least Concern (IUCN). SoIB 2023: Moderate Conservation Priority; Trend: Decline. Protected under Schedule II of Wildlife (Protection) Act.",
+    "nativeStatus": "Within-India migrant + winter migrant.",
+    "interestingFact": "It uses its long, decurved bill to probe deep into the soil to find grubs and mole crickets.",
+    "sources": [
+      {
+        "sourceName": "eBird",
+        "sourceUrl": "https://ebird.org/species/hoopoe",
+        "accessedDate": "2026-09-13",
+        "note": "Foraging habits and range."
+      },
+      {
+        "sourceName": "State of India's Birds 2023",
+        "sourceUrl": "https://www.stateofindiasbirds.in/species/hoopoe/",
+        "accessedDate": "2026-09-13",
+        "note": "India-specific conservation status and migration."
+      }
+    ]
+  },
+  {
+    "id": "house_crow",
+    "commonName": "House Crow",
+    "scientificName": "Corvus splendens",
+    "habitat": "Urban and suburban areas; strictly associated with human settlements.",
+    "diet": "Omnivorous scavenger; eats everything from insects and small animals to human waste.",
+    "distribution": "Native to South Asia; widely introduced as an invasive species in Africa and Europe.",
+    "ecologicalRole": "Scavenger in urban ecosystems, helping to dispose of waste.",
+    "conservationStatus": "Least Concern (IUCN). SoIB 2023: Low Conservation Priority; Trend: Stable. Not protected under Wildlife (Protection) Act.",
+    "nativeStatus": "Native / Resident.",
+    "interestingFact": "It is closely associated with human habitation and is rarely found living away from cities, towns, or villages.",
+    "sources": [
+      {
+        "sourceName": "eBird",
+        "sourceUrl": "https://ebird.org/species/houcro1",
+        "accessedDate": "2026-09-13",
+        "note": "Adaptability and scavenging behavior."
+      },
+      {
+        "sourceName": "State of India's Birds 2023",
+        "sourceUrl": "https://www.stateofindiasbirds.in/species/houcro1/",
+        "accessedDate": "2026-09-13",
+        "note": "India-specific population status."
+      }
+    ]
+  },
+  {
+    "id": "indian_grey_hornbill",
+    "commonName": "Indian Grey Hornbill",
+    "scientificName": "Ocyceros birostris",
+    "habitat": "Open woodland, urban parks, and groves with large fruiting trees like Banyan and Peepal.",
+    "diet": "Primarily frugivorous, especially figs; also takes insects, small reptiles, and bird nestlings.",
+    "distribution": "Native to the Indian subcontinent.",
+    "ecologicalRole": "Seed disperser for many tropical tree species due to its wide ranging flight.",
+    "conservationStatus": "Least Concern (IUCN). SoIB 2023: Low Conservation Priority; Trend: Stable. Not protected under Wildlife (Protection) Act.",
+    "nativeStatus": "Native / Resident.",
+    "interestingFact": "The female seals herself inside a tree hollow during nesting, relying entirely on the male to feed her through a narrow slit.",
+    "sources": [
+      {
+        "sourceName": "eBird",
+        "sourceUrl": "https://ebird.org/species/inghor1",
+        "accessedDate": "2026-09-13",
+        "note": "Breeding and diet details."
+      },
+      {
+        "sourceName": "State of India's Birds 2023",
+        "sourceUrl": "https://www.stateofindiasbirds.in/species/inghor1/",
+        "accessedDate": "2026-09-13",
+        "note": "India-specific conservation status and trends."
+      }
+    ]
+  },
+  {
+    "id": "indian_peacock",
+    "commonName": "Indian Peacock",
+    "scientificName": "Pavo cristatus",
+    "habitat": "Deciduous forests, scrubland, and agricultural fields; often found near human habitation.",
+    "diet": "Omnivorous; feeds on seeds, fruits, insects, small reptiles, and amphibians.",
+    "distribution": "Native to South Asia; introduced to many countries worldwide.",
+    "ecologicalRole": "Generalist feeder; helps control small snakes and insect populations.",
+    "conservationStatus": "Least Concern (IUCN). SoIB 2023: Low Conservation Priority; Trend: Increasing. Protected under Schedule I of Wildlife (Protection) Act.",
+    "nativeStatus": "Native / Resident.",
+    "interestingFact": "The National Bird of India. The 'eyes' on its train are used in a vibrating display to attract females.",
+    "sources": [
+      {
+        "sourceName": "eBird",
+        "sourceUrl": "https://ebird.org/species/compea",
+        "accessedDate": "2026-09-13",
+        "note": "Courtship and habitat information."
+      },
+      {
+        "sourceName": "State of India's Birds 2023",
+        "sourceUrl": "https://www.stateofindiasbirds.in/species/compea/",
+        "accessedDate": "2026-09-13",
+        "note": "India-specific conservation status and population growth."
+      }
+    ]
+  },
+  {
+    "id": "indian_pitta",
+    "commonName": "Indian Pitta",
+    "scientificName": "Pitta brachyura",
+    "habitat": "Scrub jungle, deciduous forests, and dense undergrowth with moist leaf litter.",
+    "diet": "Insects, earthworms, and snails found by foraging on the forest floor.",
+    "distribution": "Breeds in the Himalayas and Central India; winters in Southern India and Sri Lanka.",
+    "ecologicalRole": "Forest floor insectivore.",
+    "conservationStatus": "Least Concern (IUCN). SoIB 2023: Low Conservation Priority; Trend: Stable. Not protected under Wildlife (Protection) Act.",
+    "nativeStatus": "Within-India migrant.",
+    "interestingFact": "Known as 'Navrang' (Nine Colors) in many Indian languages due to its brilliant multi-colored plumage.",
+    "sources": [
+      {
+        "sourceName": "eBird",
+        "sourceUrl": "https://ebird.org/species/indpit1",
+        "accessedDate": "2026-09-13",
+        "note": "Migration and plumage description."
+      },
+      {
+        "sourceName": "State of India's Birds 2023",
+        "sourceUrl": "https://www.stateofindiasbirds.in/species/indpit1/",
+        "accessedDate": "2026-09-13",
+        "note": "India-specific conservation status and migration patterns."
+      }
+    ]
+  },
+  {
+    "id": "indian_roller",
+    "commonName": "Indian Roller",
+    "scientificName": "Coracias benghalensis",
+    "habitat": "Open grasslands, cultivated fields, and light forests; often seen on roadside power lines.",
+    "diet": "Mainly insects like beetles and crickets; also takes lizards, frogs, and small snakes.",
+    "distribution": "Found across the Indian subcontinent and Southeast Asia.",
+    "ecologicalRole": "Biological pest controller in agricultural landscapes.",
+    "conservationStatus": "Least Concern (IUCN). SoIB 2023: Low Conservation Priority; Trend: Stable. Not protected under Wildlife (Protection) Act.",
+    "nativeStatus": "Native / Resident.",
+    "interestingFact": "Named for its spectacular aerial acrobatics ('rolling') during the breeding season.",
+    "sources": [
+      {
+        "sourceName": "eBird",
+        "sourceUrl": "https://ebird.org/species/indrol2",
+        "accessedDate": "2026-09-13",
+        "note": "Foraging behavior and aerial displays."
+      },
+      {
+        "sourceName": "State of India's Birds 2023",
+        "sourceUrl": "https://www.stateofindiasbirds.in/species/indrol2/",
+        "accessedDate": "2026-09-13",
+        "note": "India-specific conservation status."
+      }
+    ]
+  },
+  {
+    "id": "jungle_babbler",
+    "commonName": "Jungle Babbler",
+    "scientificName": "Argya striata",
+    "habitat": "Open woodland, scrubland, and well-vegetated gardens.",
+    "diet": "Mainly insects; also eats berries, grains, and nectar.",
+    "distribution": "Endemic to the Indian subcontinent.",
+    "ecologicalRole": "Social bird that helps maintain ecosystem balance through insectivory.",
+    "conservationStatus": "Least Concern (IUCN). SoIB 2023: Low Conservation Priority; Trend: Stable. Not protected under Wildlife (Protection) Act.",
+    "nativeStatus": "Native / Resident.",
+    "interestingFact": "Commonly known as 'Seven Sisters' because they are almost always found in small, noisy groups.",
+    "sources": [
+      {
+        "sourceName": "eBird",
+        "sourceUrl": "https://ebird.org/species/junbab2",
+        "accessedDate": "2026-09-13",
+        "note": "Social behavior and habitat."
+      },
+      {
+        "sourceName": "State of India's Birds 2023",
+        "sourceUrl": "https://www.stateofindiasbirds.in/species/junbab2/",
+        "accessedDate": "2026-09-13",
+        "note": "India-specific population trends."
+      }
+    ]
+  },
+  {
+    "id": "northern_lapwing",
+    "commonName": "Northern Lapwing",
+    "scientificName": "Vanellus vanellus",
+    "habitat": "Wet meadows, marshes, and agricultural fields near water bodies.",
+    "diet": "Insects, earthworms, and other small invertebrates.",
+    "distribution": "Widespread across Eurasia; winters in Northern India.",
+    "ecologicalRole": "Ground-foraging insectivore.",
+    "conservationStatus": "Near Threatened (IUCN). SoIB 2023: Moderate Conservation Priority; Trend: Decline. Protected under Schedule II of Wildlife (Protection) Act.",
+    "nativeStatus": "Winter migrant.",
+    "interestingFact": "Known for its distinctive 'peewit' call and unique crest, which it can raise when excited.",
+    "sources": [
+      {
+        "sourceName": "eBird",
+        "sourceUrl": "https://ebird.org/species/norlap",
+        "accessedDate": "2026-09-13",
+        "note": "Identification and winter range."
+      },
+      {
+        "sourceName": "State of India's Birds 2023",
+        "sourceUrl": "https://www.stateofindiasbirds.in/species/norlap/",
+        "accessedDate": "2026-09-13",
+        "note": "India-specific conservation status and trends."
+      }
+    ]
+  },
+  {
+    "id": "red_wattled_lapwing",
+    "commonName": "Red-Wattled Lapwing",
+    "scientificName": "Vanellus indicus",
+    "habitat": "Open fields, marshes, and margins of water bodies; often found near human habitation.",
+    "diet": "Insects, snails, and other invertebrates; occasionally feeds on grains.",
+    "distribution": "Found from West Asia through the Indian subcontinent to Southeast Asia.",
+    "ecologicalRole": "Ground-nesting insectivore that acts as a sentinel for other species.",
+    "conservationStatus": "Least Concern (IUCN). SoIB 2023: Low Conservation Priority; Trend: Stable. Not protected under Wildlife (Protection) Act.",
+    "nativeStatus": "Native / Resident.",
+    "interestingFact": "Its alarm call is famously interpreted as 'Did-he-do-it?', often used to alert other animals to danger.",
+    "sources": [
+      {
+        "sourceName": "eBird",
+        "sourceUrl": "https://ebird.org/species/rewlap1",
+        "accessedDate": "2026-09-13",
+        "note": "Call and alarm behavior."
+      },
+      {
+        "sourceName": "State of India's Birds 2023",
+        "sourceUrl": "https://www.stateofindiasbirds.in/species/rewlap1/",
+        "accessedDate": "2026-09-13",
+        "note": "India-specific population trends."
+      }
+    ]
+  },
+  {
+    "id": "ruddy_shelduck",
+    "commonName": "Ruddy Shelduck",
+    "scientificName": "Tadorna ferruginea",
+    "habitat": "Large rivers, lakes, and salt marshes; often found in open areas near water.",
+    "diet": "Omnivorous; feeds on grasses, seeds, aquatic plants, insects, and small fish.",
+    "distribution": "Breeds in Central Asia and SE Europe; winters throughout the Indian subcontinent.",
+    "ecologicalRole": "Grazing waterfowl that impacts both aquatic and terrestrial vegetation.",
+    "conservationStatus": "Least Concern (IUCN). SoIB 2023: Low Conservation Priority; Trend: Stable. Not protected under Wildlife (Protection) Act.",
+    "nativeStatus": "Winter migrant.",
+    "interestingFact": "Known in India as the 'Brahminy Duck', it is often seen in pairs and is known for its loud, honking calls.",
+    "sources": [
+      {
+        "sourceName": "eBird",
+        "sourceUrl": "https://ebird.org/species/rudshe",
+        "accessedDate": "2026-09-13",
+        "note": "Wintering behavior and vocalizations."
+      },
+      {
+        "sourceName": "State of India's Birds 2023",
+        "sourceUrl": "https://www.stateofindiasbirds.in/species/rudshe/",
+        "accessedDate": "2026-09-13",
+        "note": "India-specific conservation status and population trends."
+      }
+    ]
+  },
+  {
+    "id": "rufous_treepie",
+    "commonName": "Rufous Treepie",
+    "scientificName": "Dendrocitta vagabunda",
+    "habitat": "Open woodland, deciduous forests, gardens, and groves.",
+    "diet": "Highly omnivorous; eats fruits, seeds, insects, lizards, and small birds.",
+    "distribution": "Found throughout South Asia and Southeast Asia.",
+    "ecologicalRole": "Generalist predator and scavenger that also aids in seed dispersal.",
+    "conservationStatus": "Least Concern (IUCN). SoIB 2023: Low Conservation Priority; Trend: Stable. Not protected under Wildlife (Protection) Act.",
+    "nativeStatus": "Native / Resident.",
+    "interestingFact": "A member of the crow family, it has a wide repertoire of calls, including musical notes and harsh rattles.",
+    "sources": [
+      {
+        "sourceName": "eBird",
+        "sourceUrl": "https://ebird.org/species/ruftre1",
+        "accessedDate": "2026-09-13",
+        "note": "Feeding habits and vocalizations."
+      },
+      {
+        "sourceName": "State of India's Birds 2023",
+        "sourceUrl": "https://www.stateofindiasbirds.in/species/ruftre1/",
+        "accessedDate": "2026-09-13",
+        "note": "India-specific conservation status and trends."
+      }
+    ]
+  },
+  {
+    "id": "sarus_crane",
+    "commonName": "Sarus Crane",
+    "scientificName": "Antigone antigone",
+    "habitat": "Open wetlands, marshes, and flooded agricultural fields, particularly rice paddies.",
+    "diet": "Omnivorous; consumes aquatic plants, seeds, insects, crustaceans, and small vertebrates.",
+    "distribution": "Found in Northern and Central India, Southeast Asia, and Northern Australia.",
+    "ecologicalRole": "Indicator of healthy wetland ecosystems.",
+    "conservationStatus": "Vulnerable (IUCN). SoIB 2023: High Conservation Priority; Trend: Rapid Decline. Protected under Schedule I of Wildlife (Protection) Act.",
+    "nativeStatus": "Resident.",
+    "interestingFact": "The world's tallest flying bird, standing up to 1.8 meters; famous for forming lifelong pair bonds.",
+    "sources": [
+      {
+        "sourceName": "eBird",
+        "sourceUrl": "https://ebird.org/species/sarcra1",
+        "accessedDate": "2026-09-13",
+        "note": "Height and wetland association."
+      },
+      {
+        "sourceName": "State of India's Birds 2023",
+        "sourceUrl": "https://www.stateofindiasbirds.in/species/sarcra1/",
+        "accessedDate": "2026-09-13",
+        "note": "India-specific high conservation priority and population trends."
+      }
+    ]
+  },
+  {
+    "id": "white_breasted_kingfisher",
+    "commonName": "White-Breasted Kingfisher",
+    "scientificName": "Halcyon smyrnensis",
+    "habitat": "Diverse habitats including gardens, forests, agricultural fields, and near water bodies.",
+    "diet": "Broad generalist; eats large insects, rodents, snakes, frogs, and fish.",
+    "distribution": "Widespread from Turkey in the west to the Philippines in the east.",
+    "ecologicalRole": "Generalist predator that controls a variety of prey species.",
+    "conservationStatus": "Least Concern (IUCN). SoIB 2023: Low Conservation Priority; Trend: Stable. Not protected under Wildlife (Protection) Act.",
+    "nativeStatus": "Native / Resident.",
+    "interestingFact": "Unlike many other kingfishers, it is not strictly tied to water and can be found hunting far from it.",
+    "sources": [
+      {
+        "sourceName": "eBird",
+        "sourceUrl": "https://ebird.org/species/whbkin2",
+        "accessedDate": "2026-09-13",
+        "note": "Dietary breadth and habitat."
+      },
+      {
+        "sourceName": "State of India's Birds 2023",
+        "sourceUrl": "https://www.stateofindiasbirds.in/species/whbkin2/",
+        "accessedDate": "2026-09-13",
+        "note": "India-specific conservation status and trends."
+      }
+    ]
+  },
+  {
+    "id": "white_breasted_waterhen",
+    "commonName": "White-Breasted Waterhen",
+    "scientificName": "Amaurornis phoenicurus",
+    "habitat": "Marshes, ponds, canals, and ditches with thick emergent vegetation.",
+    "diet": "Insects, small fish, aquatic invertebrates, and seeds of marsh plants.",
+    "distribution": "Found throughout South and Southeast Asia.",
+    "ecologicalRole": "Insectivore in wetland ecosystems.",
+    "conservationStatus": "Least Concern (IUCN). SoIB 2023: Low Conservation Priority; Trend: Stable. Not protected under Wildlife (Protection) Act.",
+    "nativeStatus": "Native / Resident.",
+    "interestingFact": "Commonly seen walking on floating vegetation while jerking its tail upwards.",
+    "sources": [
+      {
+        "sourceName": "eBird",
+        "sourceUrl": "https://ebird.org/species/whbwat1",
+        "accessedDate": "2026-09-13",
+        "note": "Behavioral characteristics."
+      },
+      {
+        "sourceName": "State of India's Birds 2023",
+        "sourceUrl": "https://www.stateofindiasbirds.in/species/whbwat1/",
+        "accessedDate": "2026-09-13",
+        "note": "India-specific conservation priority and population trends."
+      }
+    ]
+  },
+  {
+    "id": "white_wagtail",
+    "commonName": "White Wagtail",
+    "scientificName": "Motacilla alba",
+    "habitat": "Open country near water, but also urban areas like rooftops and parking lots.",
+    "diet": "Primarily small insects and other invertebrates caught by running on the ground.",
+    "distribution": "Widespread across Eurasia and parts of Africa; many subspecies winter in India.",
+    "ecologicalRole": "Ground-foraging insectivore.",
+    "conservationStatus": "Least Concern (IUCN). SoIB 2023: Moderate Conservation Priority; Current Trend: Rapid Decline. Protected under Schedule II of Wildlife (Protection) Act.",
+    "nativeStatus": "Within-India migrant + winter migrant.",
+    "interestingFact": "Highly territorial on its wintering grounds, often defending the same small patch of land every day.",
+    "sources": [
+      {
+        "sourceName": "eBird",
+        "sourceUrl": "https://ebird.org/species/whiwag",
+        "accessedDate": "2026-09-13",
+        "note": "Territorial behavior and subspecies."
+      },
+      {
+        "sourceName": "State of India's Birds 2023",
+        "sourceUrl": "https://www.stateofindiasbirds.in/species/whiwag/",
+        "accessedDate": "2026-09-13",
+        "note": "India-specific conservation priority and population trends."
+      }
+    ]
+  }
+]

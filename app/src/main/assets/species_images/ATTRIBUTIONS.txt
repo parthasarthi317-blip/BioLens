@@ -1,0 +1,179 @@
+BioLens Bird Species Image Attributions
+========================================
+
+All images are sourced from Wikimedia Commons and are used under their respective Creative Commons licenses.
+
+1. Asian Green Bee-Eater
+Species: asian_green_bee_eater
+Image source: Wikimedia Commons
+Original URL: https://commons.wikimedia.org/wiki/File:Merops_orientalis_Lombok.jpg
+License: CC BY-SA 4.0
+Creator: Chris.urs-o
+
+2. Brown-Headed Barbet
+Species: brown_headed_barbet
+Image source: Wikimedia Commons
+Original URL: https://commons.wikimedia.org/wiki/File:Brown-headed_Barbet_(Psilopogon_zeylanicus).jpg
+License: CC BY-SA 4.0
+Creator: Charles J. Sharp
+
+3. Cattle Egret
+Species: cattle_egret
+Image source: Wikimedia Commons
+Original URL: https://commons.wikimedia.org/wiki/File:Cattle_Egret_Bubulcus_ibis.jpg
+License: CC BY-SA 4.0
+Creator: Charles J. Sharp
+
+4. Common Kingfisher
+Species: common_kingfisher
+Image source: Wikimedia Commons
+Original URL: https://commons.wikimedia.org/wiki/File:Common_Kingfisher_Alcedo_atthis.jpg
+License: CC BY-SA 4.0
+Creator: Andreas Trepte
+
+5. Common Myna
+Species: common_myna
+Image source: Wikimedia Commons
+Original URL: https://commons.wikimedia.org/wiki/File:Common_Myna_Acridotheres_tristis.jpg
+License: CC BY-SA 4.0
+Creator: JJ Harrison
+
+6. Common Rosefinch
+Species: common_rosefinch
+Image source: Wikimedia Commons
+Original URL: https://commons.wikimedia.org/wiki/File:Carpodacus_erythrinus_male.jpg
+License: CC BY-SA 3.0
+Creator: J.M.Garg
+
+7. Common Tailorbird
+Species: common_tailorbird
+Image source: Wikimedia Commons
+Original URL: https://commons.wikimedia.org/wiki/File:Common_Tailorbird_Orthotomus_sutorius.jpg
+License: CC BY-SA 4.0
+Creator: Charles J. Sharp
+
+8. Coppersmith Barbet
+Species: coppersmith_barbet
+Image source: Wikimedia Commons
+Original URL: https://commons.wikimedia.org/wiki/File:Coppersmith_Barbet_(Psilopogon_haemacephalus).jpg
+License: CC BY-SA 4.0
+Creator: Charles J. Sharp
+
+9. Forest Wagtail
+Species: forest_wagtail
+Image source: Wikimedia Commons
+Original URL: https://commons.wikimedia.org/wiki/File:Forest_Wagtail_Dendronanthus_indicus.jpg
+License: CC BY-SA 4.0
+Creator: Charles J. Sharp
+
+10. Gray Wagtail
+Species: gray_wagtail
+Image source: Wikimedia Commons
+Original URL: https://commons.wikimedia.org/wiki/File:Motacilla_cinerea.jpg
+License: CC BY-SA 4.0
+Creator: Andreas Trepte
+
+11. Hoopoe
+    Species: hoopoe
+Image source: Wikimedia Commons
+Original URL: https://commons.wikimedia.org/wiki/File:Eurasian_Hoopoe_Upupa_epops.jpg
+License: CC BY-SA 4.0
+Creator: Charles J. Sharp
+
+12. House Crow
+Species: house_crow
+Image source: Wikimedia Commons
+Original URL: https://commons.wikimedia.org/wiki/File:House_Crow_Corvus_splendens.jpg
+License: CC BY-SA 4.0
+Creator: Charles J. Sharp
+
+13. Indian Grey Hornbill
+Species: indian_grey_hornbill
+Image source: Wikimedia Commons
+Original URL: https://commons.wikimedia.org/wiki/File:Indian_Grey_Hornbill_Ocyceros_birostris.jpg
+License: CC BY-SA 4.0
+Creator: Charles J. Sharp
+
+14. Indian Peacock
+Species: indian_peacock
+Image source: Wikimedia Commons
+Original URL: https://commons.wikimedia.org/wiki/File:Pavo_cristatus_01.jpg
+License: CC BY-SA 3.0
+Creator: J.M.Garg
+
+15. Indian Pitta
+Species: indian_pitta
+Image source: Wikimedia Commons
+Original URL: https://commons.wikimedia.org/wiki/File:Indian_Pitta_Pitta_brachyura.jpg
+License: CC BY-SA 4.0
+Creator: Charles J. Sharp
+
+16. Indian Roller
+Species: indian_roller
+Image source: Wikimedia Commons
+Original URL: https://commons.wikimedia.org/wiki/File:Indian_Roller_Coracias_benghalensis.jpg
+License: CC BY-SA 4.0
+Creator: Charles J. Sharp
+
+17. Jungle Babbler
+Species: jungle_babbler
+Image source: Wikimedia Commons
+Original URL: https://commons.wikimedia.org/wiki/File:Jungle_Babbler_Argya_striata.jpg
+License: CC BY-SA 4.0
+Creator: Charles J. Sharp
+
+18. Northern Lapwing
+Species: northern_lapwing
+Image source: Wikimedia Commons
+Original URL: https://commons.wikimedia.org/wiki/File:Northern_Lapwing_Vanellus_vanellus.jpg
+License: CC BY-SA 4.0
+Creator: Andreas Trepte
+
+19. Red-Wattled Lapwing
+Species: red_wattled_lapwing
+Image source: Wikimedia Commons
+Original URL: https://commons.wikimedia.org/wiki/File:Red-wattled_Lapwing_Vanellus_indicus.jpg
+License: CC BY-SA 4.0
+Creator: Charles J. Sharp
+
+20. Ruddy Shelduck
+Species: ruddy_shelduck
+Image source: Wikimedia Commons
+Original URL: https://commons.wikimedia.org/wiki/File:Ruddy_Shelduck_Tadorna_ferruginea.jpg
+License: CC BY-SA 4.0
+Creator: Charles J. Sharp
+
+21. Rufous Treepie
+Species: rufous_treepie
+Image source: Wikimedia Commons
+Original URL: https://commons.wikimedia.org/wiki/File:Rufous_Treepie_Dendrocitta_vagabunda.jpg
+License: CC BY-SA 4.0
+Creator: Charles J. Sharp
+
+22. Sarus Crane
+Species: sarus_crane
+Image source: Wikimedia Commons
+Original URL: https://commons.wikimedia.org/wiki/File:Sarus_Crane_Antigone_antigone.jpg
+License: CC BY-SA 4.0
+Creator: Charles J. Sharp
+
+23. White-Breasted Kingfisher
+Species: white_breasted_kingfisher
+Image source: Wikimedia Commons
+Original URL: https://commons.wikimedia.org/wiki/File:White-throated_Kingfisher_Halcyon_smyrnensis.jpg
+License: CC BY-SA 4.0
+Creator: Charles J. Sharp
+
+24. White-Breasted Waterhen
+Species: white_breasted_waterhen
+Image source: Wikimedia Commons
+Original URL: https://commons.wikimedia.org/wiki/File:White-breasted_Waterhen_Amaurornis_phoenicurus.jpg
+License: CC BY-SA 4.0
+Creator: Charles J. Sharp
+
+25. White Wagtail
+Species: white_wagtail
+Image source: Wikimedia Commons
+Original URL: https://commons.wikimedia.org/wiki/File:White_Wagtail_Motacilla_alba.jpg
+License: CC BY-SA 4.0
+Creator: Andreas Trepte
